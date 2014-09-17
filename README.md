@@ -1,4 +1,6 @@
 CherryCanvas
 ============
-HTML5 CANVAS DEMO 
-CREATED BY AI AND HTML5 CANVAS 2D
+早期使用HTML5 CANVAS与Ai制作的一个小应用
+中间大量使用了贝塞尔曲线来绘制曲线
+相关的临界点，使用Ai的钢笔工具取得
+通过这个小应用来理解绘图中曲线的理解
